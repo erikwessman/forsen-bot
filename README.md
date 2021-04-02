@@ -1,4 +1,4 @@
-# forsen-twitter-bot
+# forsen-bot
 @BotForsen
 
 ### What?
