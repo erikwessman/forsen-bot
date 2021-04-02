@@ -14,7 +14,11 @@ Because some people are unable to check the stream 24/7 but don't want to miss t
  - Once every 20 seconds, the bot takes a screenshot of the stream
  - Bot finds the speedrunning timer in the screenshot
  - If the timer is above 15 minutes, bot posts a tweet
- - If Forsen is fighting the Ender Dragon, post a special tweet
+ - If Forsen is fighting the Ender Dragon, bot post a special tweet
+
+### Want to contribute?
+Create a pull request!
+
 
 ### Q's?
 Send them to forsenbot@gmail.com
