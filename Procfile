@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath src forsen_bot:app
